@@ -7,3 +7,5 @@
 ![](art/1_redgrinheart_500x.png)
 
 ![](art/2_gringit_500x.png)
+
+![](art/3_checkedgrin_500x.png)
