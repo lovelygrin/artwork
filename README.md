@@ -11,3 +11,5 @@
 ![](art/3_checkedgrin_500x.png)
 
 ![](art/4_stripedgrin_500x.png)
+
+![](art/5_darkgrin_500x.png)
