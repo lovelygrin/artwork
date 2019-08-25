@@ -13,3 +13,5 @@
 ![](art/4_stripedgrin_500x.png)
 
 ![](art/5_darkgrin_500x.png)
+
+![](art/6_monstergrin_500x.png)
