@@ -15,3 +15,5 @@
 ![](art/5_darkgrin_500x.png)
 
 ![](art/6_monstergrin_500x.png)
+
+![](art/7_cutegrin_500x.png)
