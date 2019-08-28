@@ -17,3 +17,5 @@
 ![](art/6_monstergrin_500x.png)
 
 ![](art/7_cutegrin_500x.png)
+
+![](art/8_grinfruit_500x.png)
