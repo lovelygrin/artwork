@@ -19,3 +19,5 @@
 ![](art/7_cutegrin_500x.png)
 
 ![](art/8_grinfruit_500x.png)
+
+![](art/9_grinpark_500x.png)
