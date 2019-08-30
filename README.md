@@ -2,22 +2,22 @@
 
 ## Please feel free to use anything here.
 
-![](art/0_lovegrin_500x.png)
+![](art/000_lovegrin_500x.png)
 
-![](art/1_redgrinheart_500x.png)
+![](art/001_redgrinheart_500x.png)
 
-![](art/2_gringit_500x.png)
+![](art/002_gringit_500x.png)
 
-![](art/3_checkedgrin_500x.png)
+![](art/003_checkedgrin_500x.png)
 
-![](art/4_stripedgrin_500x.png)
+![](art/004_stripedgrin_500x.png)
 
-![](art/5_darkgrin_500x.png)
+![](art/005_darkgrin_500x.png)
 
-![](art/6_monstergrin_500x.png)
+![](art/006_monstergrin_500x.png)
 
-![](art/7_cutegrin_500x.png)
+![](art/007_cutegrin_500x.png)
 
-![](art/8_grinfruit_500x.png)
+![](art/008_grinfruit_500x.png)
 
-![](art/9_grinpark_500x.png)
+![](art/009_grinpark_500x.png)
