@@ -33,3 +33,5 @@
 ![](art/014_grinboy_500x.png)
 
 ![](art/015_grinhued_500x.png)
+
+![](art/016_grinpancakes_500x.png)
