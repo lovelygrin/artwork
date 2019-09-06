@@ -35,3 +35,5 @@
 ![](art/015_grinhued_500x.png)
 
 ![](art/016_grinpancakes_500x.png)
+
+![](art/017_naturgrin_500x.png)
