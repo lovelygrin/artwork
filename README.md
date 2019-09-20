@@ -43,3 +43,19 @@
 ![](art/019_begrin_500x.png)
 
 ![](art/020_grinbeard_500x.png)
+
+![](art/021_painogrin_500x.png)
+
+![](art/022_grinmouse_500x.png)
+
+![](art/023_plasmagrin_500x.png)
+
+![](art/024_grinreflection_500x.png)
+
+![](art/025_musicgrin_500x.png)
+
+![](art/026_grinjar_500x.png)
+
+![](art/027_gringuy_500x.png)
+
+![](art/028_blackswangrin_500x.png)
