@@ -65,3 +65,5 @@
 ![](art/030_stargrin_500x.png)
 
 ![](art/031_grindalf_500x.png)
+
+![](art/032_extragrin_500x.png)
