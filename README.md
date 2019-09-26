@@ -72,4 +72,4 @@
 
 ![](art/034_timegrin_500x.png)
 
-![](art/035_grinnature_2100x.png)
+![](art/035_grinnature_500x.png)
