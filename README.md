@@ -75,3 +75,5 @@
 ![](art/035_grinnature_500x.png)
 
 ![](art/036_pregrin_500x.png)
+
+![](art/037_bloodygrin_500x.png
