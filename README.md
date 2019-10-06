@@ -87,3 +87,5 @@
 ![](art/041_freckledgrin_500x.png)
 
 ![](art/041_puppygrin_500x.png)
+
+![](art/042_findgrin_500x.png)
