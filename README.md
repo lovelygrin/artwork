@@ -89,3 +89,5 @@
 ![](art/041_puppygrin_500x.png)
 
 ![](art/042_findgrin_500x.png)
+
+![](art/043_fortunatemimble_500x.png)
