@@ -91,3 +91,5 @@
 ![](art/042_findgrin_500x.png)
 
 ![](art/043_fortunatemimble_500x.png)
+
+![](art/044_minimalgrin_500x.png)
