@@ -99,3 +99,5 @@
 ![](art/046_flatterwimble_500x.png)
 
 ![](art/047_unusualgrin_500x.png)
+
+![](art/048_nativemimblegrin_500x.png)
