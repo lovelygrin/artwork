@@ -97,3 +97,5 @@
 ![](art/045_abstractgrinheart_500x.png)
 
 ![](art/046_flatterwimble_500x.png)
+
+![](art/047_unusualgrin_500x.png)
