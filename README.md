@@ -107,3 +107,5 @@
 ![](art/050_urchiemimble_500x.png)
 
 ![](art/051_xgrin_500x.png)
+
+![](art/052_whimsicalmimbleray_500x.png)
