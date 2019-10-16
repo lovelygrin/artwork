@@ -110,4 +110,4 @@
 
 ![](art/052_whimsicalmimbleray_500x.png)
 
-![](art/053_grininggrinera_500x.png)
+![](art/053_grinninggrinera_500x.png)
