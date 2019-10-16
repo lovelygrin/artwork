@@ -109,3 +109,5 @@
 ![](art/051_xgrin_500x.png)
 
 ![](art/052_whimsicalmimbleray_500x.png)
+
+![](art/053_grinninggrinera_500x.png)
