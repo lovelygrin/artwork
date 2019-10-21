@@ -119,3 +119,5 @@
 ![](art/056_grinslide_500x.png)
 
 ![](art/057_flowwimble_500x.png)
+
+![](art/058_silentgrin_500x.png)
