@@ -121,3 +121,5 @@
 ![](art/057_flowwimble_500x.png)
 
 ![](art/058_silentgrin_500x.png)
+
+![](art/059_findgrin_500x.png)
