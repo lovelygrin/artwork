@@ -125,3 +125,5 @@
 ![](art/059_findgrin_500x.png)
 
 ![](art/060_tonguedmimble_500x.png)
+
+![](art/061_timbledimble_500x.png)
