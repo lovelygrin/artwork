@@ -139,3 +139,5 @@
 ![](art/066_spidergrin_500x.png)
 
 ![](art/067_fondlygrin_500x.png)
+
+![](art/068_hallowedwimble_500x.png)
