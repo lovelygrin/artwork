@@ -143,3 +143,5 @@
 ![](art/068_hallowedwimble_500x.png)
 
 ![](art/069_mlady_mimble_500x.png)
+
+![](art/070_idonotknowgrin_500x.png)
