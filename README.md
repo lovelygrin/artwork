@@ -145,3 +145,5 @@
 ![](art/069_mlady_mimble_500x.png)
 
 ![](art/070_idonotknowgrin_500x.png)
+
+![](art/071_mimblewimblecake_500x.png)
