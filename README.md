@@ -149,3 +149,5 @@
 ![](art/071_mimblewimblecake_500x.png)
 
 ![](art/072_grinslime_500x.png)
+
+![](art/073_indaforestgrin_500x.png)
