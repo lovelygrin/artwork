@@ -155,3 +155,5 @@
 ![](art/074_cogrin_500x.png)
 
 ![](art/075_butwhatisagrin_500x.png)
+
+![](art/076_itsagrinthing_500x.png)
