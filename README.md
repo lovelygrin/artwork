@@ -167,3 +167,6 @@
 ![](art/080_grinflute_500x.png)
 
 ![](art/081-haeßga_grin-500x.png)
+
+![](art/082-season_blossom_kind-500x.png)
+
